@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">libros</string>
+    <string name="ingrese_usser"> Ingresar Usuario</string>
+    <string name="ingrese_pass"> Ingresar Password</string>
+    <string name="btn_ingresar">INICIAR SESION</string>
+    <string name="btn_crearCuenta">CREAR CUENTA</string>
+    <string name="tyc">terminos y condiciones</string>
+    <string name="cont_tyc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nunc sodales ipsum in diam commodo venenatis. Vestibulum ut dui ante. Sed et magna vel lorem
+        pulvinar tempus id sed sapien. Nam finibus risus vitae molestie tincidunt. Nulla felis mauris,
+        vestibulum ac nibh non, malesuada laoreet nulla. Nullam eu pharetra tellus. Nulla vel augue non erat
+        sagittis mollis. Praesent in varius risus. Nam a ipsum vel justo sagittis consequat. Phasellus
+        ullamcorper maximus mauris nec mattis. In blandit ipsum vitae diam dignissim, sed tempor orci sodales.
+        Proin vel ante sit amet nisl interdum lacinia. Donec pharetra tincidunt enim, nec varius magna pulvinar
+        sit amet. Praesent posuere quam massa, at pretium ante sollicitudin id. Duis vehicula hendrerit quam non
+        consectetur. Vestibulum malesuada tincidunt imperdiet. Mauris eu posuere augue. Sed sagittis lobortis tellus ut tincidunt. Vestibulum consequat ornare vehicula. Mauris mollis viverra ex sed accumsan. Donec sit amet vehicula nulla. Aenean et aliquam sapien. Maecenas at risus vitae augue maximus finibus. Morbi enim justo, condimentum ut convallis vitae, tristique vitae leo. Nam sagittis lacinia elementum. Maecenas tempus eget nisi eu fringilla. Vivamus non pharetra nibh, in consequat enim.
+    Cras vel eros non neque facilisis auctor sit amet eu est. Cras dui turpis, dignissim mattis vulputate placerat,
+        porta sed tortor. Curabitur dapibus, dui aliquam vulputate facilisis, sapien sem sagittis erat, gravida
+        iaculis turpis lectus sit amet nibh. Proin pellentesque lorem quam, eu volutpat ipsum sagittis nec. Duis rutrum purus nec elit pretium faucibus. Nullam vel massa condimentum, tincidunt purus a, pretium felis. Curabitur vitae felis libero. Nullam elementum arcu quis est scelerisque consectetur. Vivamus consectetur, tellus sed rutrum euismod, dui lacus lacinia enim, vel facilisis erat urna sit amet augue. Mauris sagittis feugiat rhoncus. Curabitur quis lorem risus. Curabitur et sem sed sapien accumsan tristique. Phasellus at ligula tempus, euismod nibh a, bibendum ligula. Nullam bibendum ullamcorper sem, eu venenatis justo ultrices eu. Aenean a ligula et urna mattis congue.
+    Sed laoreet, urna eu cursus efficitur, sem arcu mollis urna, quis maximus tellus orci non augue. Aenean at
+        commodo ipsum, a semper odio. Morbi lacinia nisi quis odio porttitor, eget ornare ligula hendrerit.
+        Aliquam ullamcorper neque sit amet consequat maximus. Sed id feugiat sapien, sit amet lacinia enim.
+        Fusce posuere pellentesque urna et commodo. Vivamus pretium augue id sapien molestie, ut consectetur urna volutpat. Mauris consectetur placerat lacus, vestibulum venenatis libero efficitur non. Sed nec nibh hendrerit, fermentum ex eu, varius sapien. Ut ac facilisis velit, malesuada rhoncus lectus. Etiam hendrerit augue tempor sapien dictum vulputate. Pellentesque ac risus tellus. Mauris laoreet, tortor sed volutpat dignissim, sem nisl bibendum urna, tempus tempus metus lorem eget odio. Nullam tincidunt justo quis quam convallis mattis. Proin malesuada bibendum imperdiet. Fusce facilisis dui id nisi placerat, aliquam dignissim diam sodales.
+    Integer vitae ultrices nulla. Phasellus suscipit elit ut magna sollicitudin malesuada. Proin eget massa ac
+        metus accumsan laoreet. Aliquam auctor lorem eu sem fringilla, eget suscipit nibh placerat.
+        Suspendisse porta interdum nisl, in tincidunt eros viverra et. Fusce vel sapien id purus aliquam
+        viverra hendrerit vel ex. Curabitur vel felis lacus. In sagittis placerat tempor. In hendrerit,
+        purus id congue dictum, ligula ante vehicula velit, sit amet dictum nunc ante vitae eros.</string>
+    <string name="recordar_user">recordar usuario</string>
+    <string name="menu_tool">agregar</string>
+    <string name="Agregar_libro">Agregar libro</string>
+    <string name="Nombre_del_libro">Nombre del Libro</string>
+    <string name="Autor"> Autor</string>
+    <string name="Guardar"> Guardar</string>
+</resources>
